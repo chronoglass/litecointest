@@ -1,0 +1,9 @@
+Building Bipscoin
+
+See doc/readme-qt.rst for instructions on building Bipscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bipscoin.
+
+See doc/build-*.txt for instructions on building litecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bipscoin.
